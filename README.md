@@ -1,4 +1,3 @@
-
 # FPGA Design & Simulation Hackathon: Systolic Array RTL Exploration
 
 ## Project Overview
